@@ -1,0 +1,20 @@
+# Appendix A: LLM-Generated Draft
+
+> Prompt: “Create an outline and sample text for a one-page MBA student portfolio...”
+
+**LLM Outline:**
+1. Header with Name and Role
+2. About Section
+3. Education
+4. Work Experience
+5. Skills
+6. Contact Info
+
+**LLM Sample Text (Excerpt):**
+> I’m an MBA candidate passionate about strategic leadership, financial analysis, and driving growth...
+
+---
+
+# Appendix B: Commentary
+
+I used the LLM’s outline and some text structure, but I revised all content based on my actual education, work experience, and skills. I changed the bio to reflect my recent work as a Sales Associate and updated the education and skills sections with real information. I used my own tone to make it sound more professional and authentic.
